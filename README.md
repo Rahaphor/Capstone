@@ -26,6 +26,7 @@ Access your RESTful API from your React project using axios (http library) and d
 Add Router functionality in your React project.
  
 FrontEnd
+
 HTML
 JavaScript was used to render our information to web browser.
 Axios to get my endpoint from backend to render the information the user put.
